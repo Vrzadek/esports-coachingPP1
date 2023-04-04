@@ -181,5 +181,10 @@ Who wrote the content for the website? Was it yourself - or have you made the si
 If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
   
 ###  Acknowledgments
+Love Running walkthrough project for all the tips, inspiration and how to get a whole project complete.
 
-test
+My mentor Antonio Rodriguez for his cheering, awesome tips and tricks and much more.
+
+Elaine Broche for the fade-in animation code for my hero-image.
+
+Kera Cudmore for this awesome README template.
