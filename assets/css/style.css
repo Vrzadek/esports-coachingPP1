@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 * {
     margin: 0;
@@ -7,7 +7,7 @@
 }
 
 body, header, h1, h2, div, footer {
-    font-family: neuton, sans-serif;
+    font-family: Oswald, sans-serif;
     font-weight: 300;
     color: #3a3a3a  
 }
@@ -47,19 +47,23 @@ body, header, h1, h2, div, footer {
 #hero-outer {
     height: 37.5rem;
     width: 100%;
-    overflow: hidden;
-    
+    overflow: hidden; 
+    position: relative;
  }
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
  
- #hero-image {
+#hero-image {
     height: 37.5rem;
     width: 100%;
     background: url("../images/hero-image1.jpg") no-repeat center center;
     animation: hero-fade-in 5s;
     /* animates fade-in effect on loading page */
- }
+}
  
-  /* code borrowed from the lovely Elaine Broche */
+  /* code borrowed from Elaine Broche */
 
  /* creates fade-in for the hero image */
  @keyframes hero-fade-in {
@@ -70,4 +74,23 @@ body, header, h1, h2, div, footer {
     100% {
        opacity: 1;
     }
- }
+}
+
+#cover-text {
+    font-size: 270%;
+    letter-spacing: 3px; 
+    padding: 10px; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center; 
+    text-transform: uppercase;
+}
+
+#cover-text h3 {
+    font-size: 80%;
+    letter-spacing: 1px; 
+}
+    
