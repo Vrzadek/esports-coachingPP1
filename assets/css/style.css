@@ -1,3 +1,18 @@
-body {
-    font-family: sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Neuton&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, header, h1, h2, div, footer {
+    font-family: neuton, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a  
+}
+
+#logo {
+    float: left;
+    font-size: 270%;
 }
