@@ -15,12 +15,13 @@ body, header, h1, h2, div, footer {
 #logo {
     float: left;
     font-size: 270%;
+    letter-spacing: 3px;
 }
 
 /* navbar */
 
 #navbar {
-    font-size: 120%;
+    font-size: 140%;
     letter-spacing: 3px;
 }
 
@@ -43,3 +44,30 @@ body, header, h1, h2, div, footer {
     border-bottom: 1px solid #3a3a3a;
 }
 
+#hero-outer {
+    height: 37.5rem;
+    width: 100%;
+    overflow: hidden;
+    
+ }
+ 
+ #hero-image {
+    height: 37.5rem;
+    width: 100%;
+    background: url("../images/hero-image1.jpg") no-repeat center center;
+    animation: hero-fade-in 5s;
+    /* animates fade-in effect on loading page */
+ }
+ 
+  /* code borrowed from the lovely Elaine Broche */
+
+ /* creates fade-in for the hero image */
+ @keyframes hero-fade-in {
+    0% {
+       opacity: 0.5;
+    }
+ 
+    100% {
+       opacity: 1;
+    }
+ }
