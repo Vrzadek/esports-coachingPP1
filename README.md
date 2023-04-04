@@ -157,7 +157,7 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Code Used
 
-- Fade-in animation help from [Elaine Broche](https://github.com/elainebroche-dev/ms1-thrive/blob/master/assets/css/style.css).
+- Fade-in animation and cover-text help from [Elaine Broche](https://github.com/elainebroche-dev/ms1-thrive/blob/master/assets/css/style.css).
 - Readme help from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md).
 
 ## Content
