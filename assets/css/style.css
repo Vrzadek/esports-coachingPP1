@@ -24,8 +24,22 @@ body, header, h1, h2, div, footer {
     letter-spacing: 3px;
 }
 
+#navbar, #logo {
+    line-height: 75px;
+}
+
 #navbar li {
     float: right;
     list-style-type: none;
     margin-right: 20px;
 }
+
+#navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navbar a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
