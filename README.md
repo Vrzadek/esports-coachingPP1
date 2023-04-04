@@ -162,29 +162,26 @@ Testing requirements aren't massive for your first project, however if you start
   
 Use this part of the README to link to your TESTING.md file - you can view the example TESTING.md file [here](milestone1-testing.md)
 
-## Credits
+# Credits
 
-👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
+## Code Used
 
-The Credits section is where you can credit all the people and sources you used throughout your project.
+- Fade-in animation help from [Elaine Broche](https://github.com/elainebroche-dev/ms1-thrive/blob/master/assets/css/style.css).
+- Readme help from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md).
 
-### Code Used
-
-If you have used some code in your project that you didn't write, this is the place to make note of it. Credit the author of the code and if possible a link to where you found the code. You could also add in a brief description of what the code does, or what you are using it for here.
-
-### Content
+## Content
 
 Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
 
-###  Media
+##  Media
 
 If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
   
-###  Acknowledgments
-Love Running walkthrough project for all the tips, inspiration and how to get a whole project complete.
+##  Acknowledgments
+- Love Running Walkthrough project for all the tips, inspiration and how to get a whole project complete.
 
-My mentor Antonio Rodriguez for his cheering, awesome tips and tricks and much more.
+- My mentor Antonio Rodriguez for his cheering, awesome tips and tricks and much more.
 
-Elaine Broche for the fade-in animation code for my hero-image.
+- Kera Cudmore for this awesome README template.
 
-Kera Cudmore for this awesome README template.
+- Elaine Broche for the fade-in animation.
