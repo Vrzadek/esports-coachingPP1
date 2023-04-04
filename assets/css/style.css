@@ -16,3 +16,16 @@ body, header, h1, h2, div, footer {
     float: left;
     font-size: 270%;
 }
+
+/* navbar */
+
+#navbar {
+    font-size: 120%;
+    letter-spacing: 3px;
+}
+
+#navbar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
