@@ -1,14 +1,11 @@
-# PROJECT NAME TO GO HERE
+# ESPORTS COACHING
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
-
-Add a Blurb about the site here, what does it do, why did you build it?
+I made this site due to gaming being one of my biggest hobbies. I've been gaming since I were 5 years old which is 26 years back in time.. So when I could mix business with pleasure it was easy to come up with a idea for my first project.
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
 ---
 
@@ -16,12 +13,6 @@ If you want to add optional [shields.io](https://shields.io) badges to your READ
 
 * [User Experience](#user-experience-ux)
   * [User Stories](#user-stories)
-
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
@@ -170,12 +161,11 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 - Readme help from [Kera Cudmore](https://github.com/kera-cudmore/readme-examples/blob/main/milestone1-readme.md).
 
 ## Content
-
-Who wrote the content for the website? Was it yourself - or have you made the site for someone and they specified what the site was to say? This is the best place to put this information.
+All the written content was made by Viktor Rzadek.
 
 ##  Media
-
-If you have used any media on your site (images, audio, video etc) you can credit them here. I like to link back to the source where I found the media, and include where on the site the image is used.
+- Font Awesome for the social-media icons.
+- Images are taken from unsplash.com and ...
   
 ##  Acknowledgments
 - Love Running Walkthrough project for all the tips, inspiration and how to get a whole project complete.
